@@ -12,3 +12,4 @@
 - [x] cinema-microservice.properties
 - [x] movie-microservice.properties
 - [x] ticket-microservice.properties
+- [x] user-microservice.properties
